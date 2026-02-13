@@ -9,4 +9,6 @@ public class Hcf1 {
         System.out.println("hcf is : "+ n1);
     }
     
-}
+} 
+
+
